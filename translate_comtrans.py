@@ -45,7 +45,7 @@ aligned_UDHR_eng_idn = load_aligned_UDHR(data_eng,data_idn)
 print(aligned_UDHR_eng_idn[0])
 
 # model1 = IBMModel1(aligned_UDHR_eng_idn,10)
-model2 = IBMModel3(aligned_UDHR_eng_idn,1)
+model2 = IBMModel2(aligned_UDHR_eng_idn,20)
 # model3 = IBMModel3(aligned_UDHR_eng_idn,10)
 
 
